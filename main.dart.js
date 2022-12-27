@@ -47237,14 +47237,14 @@ return A.a2f(this.r,s.b.Z(0,r.gt(r)),B.dR)}}
 A.ur.prototype={
 L(a){return this.e.$2(a,this.f)}}
 A.xS.prototype={
-L(a){return new A.pf(B.By,"\uc544\u3134\ub144 Demo",A.a40(null,B.eu,null),null)}}
+L(a){return new A.pf(B.By,"\ud14c\uc2a4\ud2b8 \uc571",A.a40(null,B.eu,null),null)}}
 A.pq.prototype={
 au(){return new A.t_(B.l)}}
 A.t_.prototype={
 Jf(){this.ar(new A.WU(this))},
 L(a){var s,r=null
 this.a.toString
-s=A.a3Y("\uc548\ub155 \u3141\u3134\u3147 \u3141\u3134\u3147\u3134\u3141 \u3134\u3141\u3147",r)
+s=A.a3Y("\ud14c\uc2a4\ud2b8 \uc571",r)
 return new A.ql(new A.nF(s,new A.Eg(r,r,1/0,56),r),A.Il(A.a8O(A.a([B.GK,A.a3Y(""+this.d,A.bf(a).RG.e)],t.F),B.AZ),r,r),A.a2x(B.xG,!1,this.gJe(),"Increment"),r)}}
 A.WU.prototype={
 $0(){++this.a.d},
@@ -50971,7 +50971,7 @@ B.FV=new A.m(!0,B.h,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.Fy=new A.m(!0,B.h,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.GI=new A.cQ(B.Fi,B.Gr,B.Ga,B.E2,B.G2,B.Fb,B.Gv,B.Et,B.EV,B.FY,B.DY,B.Gc,B.G0,B.FV,B.Fy)
 B.GJ=new A.AH(1,"longestLine")
-B.GK=new A.mm("You have pushesdsdsdd the button this many times:",null,null,null,null)
+B.GK=new A.mm("\ud14c\uc2a4\ud2b8",null,null,null,null)
 B.Jb=new A.Un(0,"system")
 B.GL=new A.qX(null)
 B.df=new A.AL(0,"clamp")
